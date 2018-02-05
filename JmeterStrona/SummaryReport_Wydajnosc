@@ -1,0 +1,47 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1517849310320,1185,Home,200,OK,Grupa wątków 1-3,text,true,Home - Smoke test failed,359272,720,5,5,340,0,290
+1517849309869,1684,Home,200,OK,Grupa wątków 1-1,text,true,Home - Smoke test failed,359278,720,5,5,791,0,741
+1517849310075,1538,Home,200,OK,Grupa wątków 1-2,text,true,Home - Smoke test failed,359269,720,5,5,586,0,535
+1517849310562,1176,Home,200,OK,Grupa wątków 1-4,text,true,Home - Smoke test failed,359265,720,5,5,160,0,126
+1517849310770,1155,Home,200,OK,Grupa wątków 1-5,text,true,Home - Smoke test failed,359265,720,5,5,777,0,603
+1517849328145,110,LogoIcon,200,OK,Grupa wątków 1-2,bin,true,,29763,387,5,5,77,0,47
+1517849331881,167,LogoIcon,200,OK,Grupa wątków 1-1,bin,true,,29763,387,5,5,100,0,62
+1517849336389,115,LogoIcon,200,OK,Grupa wątków 1-3,bin,true,,29763,387,5,5,88,0,39
+1517849340590,107,LogoIcon,200,OK,Grupa wątków 1-4,bin,true,,29763,387,5,5,77,0,38
+1517849344630,106,LogoIcon,200,OK,Grupa wątków 1-5,bin,true,,29763,387,5,5,77,0,44
+1517849349683,729,RandomVariable,200,OK,Grupa wątków 1-2,text,true,,223372,804,5,5,108,0,43
+1517849353621,596,RandomVariable,200,OK,Grupa wątków 1-1,text,true,,183093,804,5,5,84,0,42
+1517849357678,628,RandomVariable,200,OK,Grupa wątków 1-3,text,true,,223109,804,5,5,72,0,42
+1517849361693,547,RandomVariable,200,OK,Grupa wątków 1-4,text,true,,220994,804,5,5,82,0,40
+1517849365691,782,RandomVariable,200,OK,Grupa wątków 1-5,text,true,,221014,804,5,5,65,0,38
+1517849369064,503,Login,200,OK,Grupa wątków 1-2,text,true,LOGIN - Smoke test failed,161376,909,5,5,93,0,46
+1517849373196,456,Login,200,OK,Grupa wątków 1-1,text,true,LOGIN - Smoke test failed,161383,909,5,5,89,0,45
+1517849377167,428,Login,200,OK,Grupa wątków 1-3,text,true,LOGIN - Smoke test failed,161383,909,5,5,79,0,33
+1517849381247,538,Login,200,OK,Grupa wątków 1-4,text,true,LOGIN - Smoke test failed,161380,909,5,5,83,0,38
+1517849385014,488,Login,200,OK,Grupa wątków 1-5,text,true,LOGIN - Smoke test failed,161383,909,5,5,86,0,40
+1517849389286,495,PersonalData,200,OK,Grupa wątków 1-2,text,true,PERSONAL DATA - Smoke test failed,162287,1760,5,5,70,0,39
+1517849393325,456,PersonalData,200,OK,Grupa wątków 1-1,text,true,PERSONAL DATA - Smoke test failed,162282,1760,5,5,70,0,40
+1517849397341,457,PersonalData,200,OK,Grupa wątków 1-3,text,true,PERSONAL DATA - Smoke test failed,162268,1760,5,5,66,0,37
+1517849401243,576,PersonalData,200,OK,Grupa wątków 1-4,text,true,PERSONAL DATA - Smoke test failed,162361,1757,5,5,94,0,41
+1517849405288,487,PersonalData,200,OK,Grupa wątków 1-5,text,true,PERSONAL DATA - Smoke test failed,162369,1759,5,5,91,0,46
+1517849409270,453,Lists,200,OK,Grupa wątków 1-2,text,true,WISH LIST - Smoke test failed,161829,922,5,5,84,0,41
+1517849413313,501,Lists,200,OK,Grupa wątków 1-1,text,true,WISH LIST - Smoke test failed,161828,922,5,5,183,0,43
+1517849417327,395,Lists,200,OK,Grupa wątków 1-3,text,true,WISH LIST - Smoke test failed,161829,922,5,5,103,0,41
+1517849421203,2727,Lists,200,OK,Grupa wątków 1-4,text,true,WISH LIST - Smoke test failed,161727,920,5,5,1041,0,38
+1517849425290,1459,Lists,200,OK,Grupa wątków 1-5,text,true,WISH LIST - Smoke test failed,161741,921,5,5,98,0,41
+1517849429316,1110,Checkout,200,OK,Grupa wątków 1-2,text,true,MY ORDERS - Smoke test failed,188334,424,5,5,988,0,38
+1517849433274,438,Checkout,200,OK,Grupa wątków 1-1,text,true,MY ORDERS - Smoke test failed,188336,424,5,5,290,0,39
+1517849437385,338,Checkout,200,OK,Grupa wątków 1-3,text,true,MY ORDERS - Smoke test failed,188334,424,5,5,221,0,40
+1517849439063,420,Checkout,200,OK,Grupa wątków 1-4,text,true,MY ORDERS - Smoke test failed,188335,423,5,5,272,0,40
+1517849444333,649,Checkout,200,OK,Grupa wątków 1-5,text,true,MY ORDERS - Smoke test failed,188320,423,5,5,516,0,41
+1517849448673,364,Logout,200,OK,Grupa wątków 1-2,text,true,,359776,1302,5,5,73,0,40
+1517849453336,434,Logout,200,OK,Grupa wątków 1-1,text,true,,359776,1302,5,5,138,0,39
+1517849457453,385,Logout,200,OK,Grupa wątków 1-3,text,true,,359776,1302,5,5,83,0,41
+1517849461361,379,Logout,200,OK,Grupa wątków 1-4,text,true,,359783,1299,5,5,90,0,38
+1517849465138,390,Logout,200,OK,Grupa wątków 1-5,text,true,,359776,1301,5,5,82,0,41
+1517849469433,716,Home,200,OK,Grupa wątków 1-2,text,true,Home - Smoke test failed,359265,720,5,5,79,0,41
+1517849473361,335,Home,200,OK,Grupa wątków 1-1,text,true,Home - Smoke test failed,359265,720,5,5,58,0,37
+1517849477413,668,Home,200,OK,Grupa wątków 1-3,text,true,Home - Smoke test failed,359264,720,5,5,129,0,45
+1517849481418,331,Home,200,OK,Grupa wątków 1-4,text,true,Home - Smoke test failed,359266,720,5,5,64,0,39
+1517849485407,348,Home,200,OK,Grupa wątków 1-5,text,true,Home - Smoke test failed,359265,720,5,5,84,0,49
+1517849489069,96,LogoIcon,200,OK,Grupa wątków 1-2,bin,true,,29763,387,5,5,65,0,38

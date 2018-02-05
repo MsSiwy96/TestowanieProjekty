@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1185" it="0" lt="340" ct="290" ts="1517849310320" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="359272" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="340" it="0" lt="340" ct="290" ts="1517849310320" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="840" it="0" lt="48" ct="18" ts="1517849310665" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="358566" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1684" it="0" lt="791" ct="741" ts="1517849309869" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="359278" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="791" it="0" lt="791" ct="741" ts="1517849309869" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="711" sby="359" ng="5" na="5"/>
+  <httpSample t="889" it="0" lt="64" ct="15" ts="1517849310664" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="358567" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1538" it="0" lt="586" ct="535" ts="1517849310075" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="359269" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="586" it="0" lt="586" ct="535" ts="1517849310075" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="710" sby="359" ng="5" na="5"/>
+  <httpSample t="947" it="0" lt="72" ct="23" ts="1517849310666" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1176" it="0" lt="160" ct="126" ts="1517849310562" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="359265" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="160" it="0" lt="160" ct="126" ts="1517849310562" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="1016" it="0" lt="173" ct="58" ts="1517849310722" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1155" it="0" lt="777" ct="603" ts="1517849310770" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="359265" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="777" it="0" lt="777" ct="603" ts="1517849310770" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="377" it="0" lt="84" ct="40" ts="1517849311548" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="110" it="0" lt="77" ct="47" ts="1517849328145" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="167" it="0" lt="100" ct="62" ts="1517849331881" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="115" it="0" lt="88" ct="39" ts="1517849336389" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="107" it="0" lt="77" ct="38" ts="1517849340590" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="106" it="0" lt="77" ct="44" ts="1517849344630" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="729" it="0" lt="108" ct="43" ts="1517849349683" s="true" lb="RandomVariable" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="223372" sby="804" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="108" it="0" lt="108" ct="43" ts="1517849349683" s="true" lb="https://empik.com/bestsellery?hideUnavailable=true&amp;start=47" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="611" sby="402" ng="5" na="5"/>
+  <httpSample t="620" it="0" lt="371" ct="19" ts="1517849349792" s="true" lb="http://www.empik.com/bestsellery?hideUnavailable=true&amp;start=47" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="222761" sby="402" ng="5" na="5"/>
+</httpSample>
+<httpSample t="596" it="0" lt="84" ct="42" ts="1517849353621" s="true" lb="RandomVariable" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="183093" sby="804" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="84" it="0" lt="84" ct="42" ts="1517849353621" s="true" lb="https://empik.com/bestsellery?hideUnavailable=true&amp;start=90" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="608" sby="402" ng="5" na="5"/>
+  <httpSample t="511" it="0" lt="353" ct="18" ts="1517849353706" s="true" lb="http://www.empik.com/bestsellery?hideUnavailable=true&amp;start=90" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="182485" sby="402" ng="5" na="5"/>
+</httpSample>
+<httpSample t="628" it="0" lt="72" ct="42" ts="1517849357678" s="true" lb="RandomVariable" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="223109" sby="804" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="72" it="0" lt="72" ct="42" ts="1517849357678" s="true" lb="https://empik.com/bestsellery?hideUnavailable=true&amp;start=43" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="608" sby="402" ng="5" na="5"/>
+  <httpSample t="556" it="0" lt="386" ct="17" ts="1517849357750" s="true" lb="http://www.empik.com/bestsellery?hideUnavailable=true&amp;start=43" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="222501" sby="402" ng="5" na="5"/>
+</httpSample>
+<httpSample t="547" it="0" lt="82" ct="40" ts="1517849361693" s="true" lb="RandomVariable" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="220994" sby="804" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="82" it="0" lt="82" ct="40" ts="1517849361693" s="true" lb="https://empik.com/bestsellery?hideUnavailable=true&amp;start=69" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="608" sby="402" ng="5" na="5"/>
+  <httpSample t="464" it="0" lt="332" ct="19" ts="1517849361776" s="true" lb="http://www.empik.com/bestsellery?hideUnavailable=true&amp;start=69" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="220386" sby="402" ng="5" na="5"/>
+</httpSample>
+<httpSample t="782" it="0" lt="65" ct="38" ts="1517849365691" s="true" lb="RandomVariable" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="221014" sby="804" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="65" it="0" lt="65" ct="38" ts="1517849365691" s="true" lb="https://empik.com/bestsellery?hideUnavailable=true&amp;start=70" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="608" sby="402" ng="5" na="5"/>
+  <httpSample t="716" it="0" lt="568" ct="18" ts="1517849365757" s="true" lb="http://www.empik.com/bestsellery?hideUnavailable=true&amp;start=70" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="220406" sby="402" ng="5" na="5"/>
+</httpSample>
+<httpSample t="503" it="0" lt="93" ct="46" ts="1517849369064" s="true" lb="Login" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="161376" sby="909" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>LOGIN - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="93" it="0" lt="93" ct="46" ts="1517849369064" s="true" lb="https://empik.com/logowanie" rc="302" rm="Found" tn="Grupa wątków 1-2" dt="text" by="847" sby="490" ng="5" na="5"/>
+  <httpSample t="409" it="0" lt="293" ct="116" ts="1517849369158" s="true" lb="https://www.empik.com/logowanie?accessDeniedException=true&amp;continue=%2Flogowanie" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="160529" sby="419" ng="5" na="5"/>
+</httpSample>
+<httpSample t="456" it="0" lt="89" ct="45" ts="1517849373196" s="true" lb="Login" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="161383" sby="909" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>LOGIN - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="89" it="0" lt="89" ct="45" ts="1517849373196" s="true" lb="https://empik.com/logowanie" rc="302" rm="Found" tn="Grupa wątków 1-1" dt="text" by="847" sby="490" ng="5" na="5"/>
+  <httpSample t="366" it="0" lt="241" ct="112" ts="1517849373286" s="true" lb="https://www.empik.com/logowanie?accessDeniedException=true&amp;continue=%2Flogowanie" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="160536" sby="419" ng="5" na="5"/>
+</httpSample>
+<httpSample t="428" it="0" lt="79" ct="33" ts="1517849377167" s="true" lb="Login" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="161383" sby="909" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>LOGIN - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="79" it="0" lt="79" ct="33" ts="1517849377167" s="true" lb="https://empik.com/logowanie" rc="302" rm="Found" tn="Grupa wątków 1-3" dt="text" by="847" sby="490" ng="5" na="5"/>
+  <httpSample t="349" it="0" lt="254" ct="114" ts="1517849377246" s="true" lb="https://www.empik.com/logowanie?accessDeniedException=true&amp;continue=%2Flogowanie" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="160536" sby="419" ng="5" na="5"/>
+</httpSample>
+<httpSample t="538" it="0" lt="83" ct="38" ts="1517849381247" s="true" lb="Login" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="161380" sby="909" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>LOGIN - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="83" it="0" lt="83" ct="38" ts="1517849381247" s="true" lb="https://empik.com/logowanie" rc="302" rm="Found" tn="Grupa wątków 1-4" dt="text" by="846" sby="490" ng="5" na="5"/>
+  <httpSample t="454" it="0" lt="305" ct="161" ts="1517849381331" s="true" lb="https://www.empik.com/logowanie?accessDeniedException=true&amp;continue=%2Flogowanie" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="160534" sby="419" ng="5" na="5"/>
+</httpSample>
+<httpSample t="488" it="0" lt="86" ct="40" ts="1517849385014" s="true" lb="Login" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="161383" sby="909" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>LOGIN - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="86" it="0" lt="86" ct="40" ts="1517849385014" s="true" lb="https://empik.com/logowanie" rc="302" rm="Found" tn="Grupa wątków 1-5" dt="text" by="846" sby="490" ng="5" na="5"/>
+  <httpSample t="401" it="0" lt="281" ct="111" ts="1517849385101" s="true" lb="https://www.empik.com/logowanie?accessDeniedException=true&amp;continue=%2Flogowanie" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="160537" sby="419" ng="5" na="5"/>
+</httpSample>
+<httpSample t="495" it="0" lt="70" ct="39" ts="1517849389286" s="true" lb="PersonalData" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="162287" sby="1760" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>PERSONAL DATA - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="70" it="0" lt="70" ct="39" ts="1517849389286" s="true" lb="https://empik.com/twoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="548" sby="429" ng="5" na="5"/>
+  <httpSample t="69" it="0" lt="69" ct="19" ts="1517849389357" s="true" lb="http://www.empik.com/twoje-konto" rc="302" rm="Found" tn="Grupa wątków 1-2" dt="text" by="634" sby="429" ng="5" na="5"/>
+  <httpSample t="32" it="0" lt="32" ct="0" ts="1517849389427" s="true" lb="http://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="471" sby="451" ng="5" na="5"/>
+  <httpSample t="321" it="0" lt="210" ct="40" ts="1517849389460" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="160634" sby="451" ng="5" na="5"/>
+</httpSample>
+<httpSample t="456" it="0" lt="70" ct="40" ts="1517849393325" s="true" lb="PersonalData" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="162282" sby="1760" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>PERSONAL DATA - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="70" it="0" lt="70" ct="40" ts="1517849393325" s="true" lb="https://empik.com/twoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="548" sby="429" ng="5" na="5"/>
+  <httpSample t="58" it="0" lt="58" ct="18" ts="1517849393396" s="true" lb="http://www.empik.com/twoje-konto" rc="302" rm="Found" tn="Grupa wątków 1-1" dt="text" by="634" sby="429" ng="5" na="5"/>
+  <httpSample t="34" it="0" lt="34" ct="0" ts="1517849393455" s="true" lb="http://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="471" sby="451" ng="5" na="5"/>
+  <httpSample t="291" it="0" lt="179" ct="47" ts="1517849393490" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="160629" sby="451" ng="5" na="5"/>
+</httpSample>
+<httpSample t="457" it="0" lt="66" ct="37" ts="1517849397341" s="true" lb="PersonalData" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="162268" sby="1760" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>PERSONAL DATA - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="66" it="0" lt="66" ct="37" ts="1517849397341" s="true" lb="https://empik.com/twoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="548" sby="429" ng="5" na="5"/>
+  <httpSample t="70" it="0" lt="70" ct="19" ts="1517849397409" s="true" lb="http://www.empik.com/twoje-konto" rc="302" rm="Found" tn="Grupa wątków 1-3" dt="text" by="634" sby="429" ng="5" na="5"/>
+  <httpSample t="25" it="0" lt="25" ct="0" ts="1517849397479" s="true" lb="http://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="471" sby="451" ng="5" na="5"/>
+  <httpSample t="293" it="0" lt="165" ct="40" ts="1517849397505" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="160615" sby="451" ng="5" na="5"/>
+</httpSample>
+<httpSample t="576" it="0" lt="94" ct="41" ts="1517849401243" s="true" lb="PersonalData" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="162361" sby="1757" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>PERSONAL DATA - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="94" it="0" lt="94" ct="41" ts="1517849401243" s="true" lb="https://empik.com/twoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="548" sby="428" ng="5" na="5"/>
+  <httpSample t="62" it="0" lt="62" ct="19" ts="1517849401338" s="true" lb="http://www.empik.com/twoje-konto" rc="302" rm="Found" tn="Grupa wątków 1-4" dt="text" by="720" sby="429" ng="5" na="5"/>
+  <httpSample t="24" it="0" lt="24" ct="0" ts="1517849401401" s="true" lb="http://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="471" sby="450" ng="5" na="5"/>
+  <httpSample t="393" it="0" lt="269" ct="41" ts="1517849401426" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="160622" sby="450" ng="5" na="5"/>
+</httpSample>
+<httpSample t="487" it="0" lt="91" ct="46" ts="1517849405288" s="true" lb="PersonalData" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="162369" sby="1759" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>PERSONAL DATA - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="91" it="0" lt="91" ct="46" ts="1517849405288" s="true" lb="https://empik.com/twoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="548" sby="428" ng="5" na="5"/>
+  <httpSample t="58" it="0" lt="58" ct="18" ts="1517849405380" s="true" lb="http://www.empik.com/twoje-konto" rc="302" rm="Found" tn="Grupa wątków 1-5" dt="text" by="721" sby="429" ng="5" na="5"/>
+  <httpSample t="24" it="0" lt="24" ct="0" ts="1517849405439" s="true" lb="http://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="471" sby="451" ng="5" na="5"/>
+  <httpSample t="311" it="0" lt="184" ct="41" ts="1517849405464" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="160629" sby="451" ng="5" na="5"/>
+</httpSample>
+<httpSample t="453" it="0" lt="84" ct="41" ts="1517849409270" s="true" lb="Lists" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="161829" sby="922" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>WISH LIST - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="84" it="0" lt="84" ct="41" ts="1517849409270" s="true" lb="https://empik.com/twoje-konto/schowek/moje-listy" rc="302" rm="Found" tn="Grupa wątków 1-2" dt="text" by="845" sby="448" ng="5" na="5"/>
+  <httpSample t="369" it="0" lt="205" ct="42" ts="1517849409354" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto%2Fschowek%2Fmoje-listy" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="160984" sby="474" ng="5" na="5"/>
+</httpSample>
+<httpSample t="501" it="0" lt="183" ct="43" ts="1517849413313" s="true" lb="Lists" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="161828" sby="922" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>WISH LIST - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="183" it="0" lt="183" ct="43" ts="1517849413313" s="true" lb="https://empik.com/twoje-konto/schowek/moje-listy" rc="302" rm="Found" tn="Grupa wątków 1-1" dt="text" by="845" sby="448" ng="5" na="5"/>
+  <httpSample t="317" it="0" lt="195" ct="40" ts="1517849413497" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto%2Fschowek%2Fmoje-listy" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="160983" sby="474" ng="5" na="5"/>
+</httpSample>
+<httpSample t="395" it="0" lt="103" ct="41" ts="1517849417327" s="true" lb="Lists" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="161829" sby="922" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>WISH LIST - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="103" it="0" lt="103" ct="41" ts="1517849417327" s="true" lb="https://empik.com/twoje-konto/schowek/moje-listy" rc="302" rm="Found" tn="Grupa wątków 1-3" dt="text" by="845" sby="448" ng="5" na="5"/>
+  <httpSample t="291" it="0" lt="180" ct="40" ts="1517849417431" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto%2Fschowek%2Fmoje-listy" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="160984" sby="474" ng="5" na="5"/>
+</httpSample>
+<httpSample t="2727" it="0" lt="1041" ct="38" ts="1517849421203" s="true" lb="Lists" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="161727" sby="920" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>WISH LIST - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1041" it="0" lt="1041" ct="38" ts="1517849421203" s="true" lb="https://empik.com/twoje-konto/schowek/moje-listy" rc="302" rm="Found" tn="Grupa wątków 1-4" dt="text" by="758" sby="447" ng="5" na="5"/>
+  <httpSample t="1685" it="0" lt="1582" ct="40" ts="1517849422245" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto%2Fschowek%2Fmoje-listy" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="160969" sby="473" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1459" it="0" lt="98" ct="41" ts="1517849425290" s="true" lb="Lists" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="161741" sby="921" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>WISH LIST - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="98" it="0" lt="98" ct="41" ts="1517849425290" s="true" lb="https://empik.com/twoje-konto/schowek/moje-listy" rc="302" rm="Found" tn="Grupa wątków 1-5" dt="text" by="758" sby="447" ng="5" na="5"/>
+  <httpSample t="1361" it="0" lt="1251" ct="37" ts="1517849425388" s="true" lb="https://www.empik.com/logowanie?continue=%2Ftwoje-konto%2Fschowek%2Fmoje-listy" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="160983" sby="474" ng="5" na="5"/>
+</httpSample>
+<httpSample t="1110" it="0" lt="988" ct="38" ts="1517849429316" s="true" lb="Checkout" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="188334" sby="424" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>MY ORDERS - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="438" it="0" lt="290" ct="39" ts="1517849433274" s="true" lb="Checkout" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="188336" sby="424" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>MY ORDERS - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="338" it="0" lt="221" ct="40" ts="1517849437385" s="true" lb="Checkout" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="188334" sby="424" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>MY ORDERS - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="420" it="0" lt="272" ct="40" ts="1517849439063" s="true" lb="Checkout" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="188335" sby="423" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>MY ORDERS - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="649" it="0" lt="516" ct="41" ts="1517849444333" s="true" lb="Checkout" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="188320" sby="423" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>MY ORDERS - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="364" it="0" lt="73" ct="40" ts="1517849448673" s="true" lb="Logout" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="359776" sby="1302" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="73" it="0" lt="73" ct="40" ts="1517849448673" s="true" lb="https://empik.com/j_spring_security_logout" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="561" sby="442" ng="5" na="5"/>
+  <httpSample t="56" it="0" lt="56" ct="17" ts="1517849448747" s="true" lb="http://www.empik.com/j_spring_security_logout" rc="302" rm="Found" tn="Grupa wątków 1-2" dt="text" by="656" sby="442" ng="5" na="5"/>
+  <httpSample t="233" it="0" lt="34" ct="0" ts="1517849448804" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="358559" sby="418" ng="5" na="5"/>
+</httpSample>
+<httpSample t="434" it="0" lt="138" ct="39" ts="1517849453336" s="true" lb="Logout" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="359776" sby="1302" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="138" it="0" lt="138" ct="39" ts="1517849453336" s="true" lb="https://empik.com/j_spring_security_logout" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="561" sby="442" ng="5" na="5"/>
+  <httpSample t="51" it="0" lt="51" ct="18" ts="1517849453475" s="true" lb="http://www.empik.com/j_spring_security_logout" rc="302" rm="Found" tn="Grupa wątków 1-1" dt="text" by="656" sby="442" ng="5" na="5"/>
+  <httpSample t="242" it="0" lt="30" ct="0" ts="1517849453528" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="358559" sby="418" ng="5" na="5"/>
+</httpSample>
+<httpSample t="385" it="0" lt="83" ct="41" ts="1517849457453" s="true" lb="Logout" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="359776" sby="1302" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="83" it="0" lt="83" ct="41" ts="1517849457453" s="true" lb="https://empik.com/j_spring_security_logout" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="561" sby="442" ng="5" na="5"/>
+  <httpSample t="57" it="0" lt="57" ct="16" ts="1517849457537" s="true" lb="http://www.empik.com/j_spring_security_logout" rc="302" rm="Found" tn="Grupa wątków 1-3" dt="text" by="656" sby="442" ng="5" na="5"/>
+  <httpSample t="242" it="0" lt="32" ct="0" ts="1517849457596" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="358559" sby="418" ng="5" na="5"/>
+</httpSample>
+<httpSample t="379" it="0" lt="90" ct="38" ts="1517849461361" s="true" lb="Logout" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="359783" sby="1299" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="90" it="0" lt="90" ct="38" ts="1517849461361" s="true" lb="https://empik.com/j_spring_security_logout" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="561" sby="441" ng="5" na="5"/>
+  <httpSample t="62" it="0" lt="62" ct="20" ts="1517849461451" s="true" lb="http://www.empik.com/j_spring_security_logout" rc="302" rm="Found" tn="Grupa wątków 1-4" dt="text" by="656" sby="441" ng="5" na="5"/>
+  <httpSample t="226" it="0" lt="27" ct="0" ts="1517849461514" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="358566" sby="417" ng="5" na="5"/>
+</httpSample>
+<httpSample t="390" it="0" lt="82" ct="41" ts="1517849465138" s="true" lb="Logout" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="359776" sby="1301" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="82" it="0" lt="82" ct="41" ts="1517849465138" s="true" lb="https://empik.com/j_spring_security_logout" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="561" sby="441" ng="5" na="5"/>
+  <httpSample t="57" it="0" lt="57" ct="18" ts="1517849465221" s="true" lb="http://www.empik.com/j_spring_security_logout" rc="302" rm="Found" tn="Grupa wątków 1-5" dt="text" by="656" sby="442" ng="5" na="5"/>
+  <httpSample t="249" it="0" lt="32" ct="0" ts="1517849465279" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="358559" sby="418" ng="5" na="5"/>
+</httpSample>
+<httpSample t="716" it="0" lt="79" ct="41" ts="1517849469433" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="359265" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="79" it="0" lt="79" ct="41" ts="1517849469433" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-2" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="637" it="0" lt="436" ct="18" ts="1517849469512" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="335" it="0" lt="58" ct="37" ts="1517849473361" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="359265" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="58" it="0" lt="58" ct="37" ts="1517849473361" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-1" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="276" it="0" lt="73" ct="18" ts="1517849473420" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-1" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="668" it="0" lt="129" ct="45" ts="1517849477413" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="359264" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="129" it="0" lt="129" ct="45" ts="1517849477413" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-3" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="538" it="0" lt="307" ct="18" ts="1517849477543" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-3" dt="text" by="358558" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="331" it="0" lt="64" ct="39" ts="1517849481418" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="359266" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="64" it="0" lt="64" ct="39" ts="1517849481418" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-4" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="266" it="0" lt="44" ct="18" ts="1517849481483" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-4" dt="text" by="358560" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="348" it="0" lt="84" ct="49" ts="1517849485407" s="true" lb="Home" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="359265" sby="720" ng="5" na="5">
+  <assertionResult>
+    <name>BeanShell Assertion Home</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage>Home - Smoke test failed</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="84" it="0" lt="84" ct="49" ts="1517849485407" s="true" lb="https://empik.com/" rc="301" rm="Moved Permanently" tn="Grupa wątków 1-5" dt="text" by="706" sby="359" ng="5" na="5"/>
+  <httpSample t="262" it="0" lt="52" ct="19" ts="1517849485493" s="true" lb="http://www.empik.com/" rc="200" rm="OK" tn="Grupa wątków 1-5" dt="text" by="358559" sby="361" ng="5" na="5"/>
+</httpSample>
+<httpSample t="96" it="0" lt="65" ct="38" ts="1517849489069" s="true" lb="LogoIcon" rc="200" rm="OK" tn="Grupa wątków 1-2" dt="bin" by="29763" sby="387" ng="5" na="5">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
